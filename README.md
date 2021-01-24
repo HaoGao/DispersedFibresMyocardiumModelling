@@ -7,7 +7,7 @@ If you find it is useful, please cite
 ## The rabbit bi-ventricular model
 <!--- ![The rabbit heart model](./figures/Rabbit.png) )
 -->
-<img src="./figures/Rabbit.png" width="400">
+<img src="./figures/Rabbit.png" width="600">
 
 ## The human left ventricular model
-<img src="./figures/human.png" width="400">
+<img src="./figures/human.png" width="600">
