@@ -69,7 +69,7 @@ program main
 
   rho_inter=0.0d0
   rnormal=3.068600367850d0  !normalize value
-! what is it?
+! mathematica can calculate it
 
   do i=1,N_element
      v1(1)=array1_node(array2_element(i,1),1)
