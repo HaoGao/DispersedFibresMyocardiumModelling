@@ -2,7 +2,7 @@
 This is the accompany repository for the paper "Modelling of fibre dispersion and its effects on cardiac mechanics from diastole to systole". 
 
 If you find it is useful, please cite 
-"Debao Guan, Xin Zhuan, William Holmes, Xiaoyu Luo, Hao Gao, Modelling of fibre dispersion and its effects on cardiac mechanics from diastole to systole, Journal of Engineering Mathematics, under revision."
+"Guan, D., Zhuan, X., Holmes, W. et al. Modelling of fibre dispersion and its effects on cardiac mechanics from diastole to systole. J Eng Math 128, 1 (2021). https://doi.org/10.1007/s10665-021-10102-w"
 
 ## The rabbit bi-ventricular model
 <!--- ![The rabbit heart model](./figures/Rabbit.png) )
